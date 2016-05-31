@@ -12,7 +12,7 @@ Wireless Router is a simple app for Windows which helps to turn your laptop into
 
 Step 1: Download the Wireless Router App.
 
-Step 2: Make sure you can see Microsoft Hosted Virtual Network Adapter listed in your Network Adapters. If not, Please download and install the driver from Microsoft or using this link. 
+Step 2: Make sure you can see Microsoft Hosted Virtual Network Adapter listed in your Network Adapters. If not, Please download and install the driver from Microsoft or using this [link](http://www.maryfi.com/download/MSRMesh-VirtualWIFI.MSI). 
 
 Step 3: Open the Wireless Router App and Press “A” to start the Hotspot. 
 

@@ -1,4 +1,4 @@
-# Wifi-Router-App
+# Wifi-Router-App - [Download](https://github.com/anishsrinivasan/Wifi-Router-App/blob/anishsrinivasan-patch-1/Wifi-Router.exe?raw=true)
 Wireless Router is a simple app for Windows which helps to turn your laptop into a mini Router.
 
 **Prerequisites** 
